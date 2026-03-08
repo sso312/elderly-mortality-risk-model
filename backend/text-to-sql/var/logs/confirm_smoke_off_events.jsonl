@@ -1,1 +1,0 @@
-{"type": "cost", "krw": 4, "total_krw": 4, "meta": {"usage": {"prompt_tokens": 3732, "completion_tokens": 50, "total_tokens": 3782}, "stage": "oneshot", "source": "llm"}, "ts": 1770949297}

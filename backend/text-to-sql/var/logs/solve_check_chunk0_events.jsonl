@@ -1,3 +1,0 @@
-{"type": "cost", "krw": 1, "total_krw": 1, "meta": {"usage": {"prompt_tokens": 57, "completion_tokens": 9, "total_tokens": 66}, "stage": "translate", "source": "llm"}, "ts": 1770951284}
-{"type": "cost", "krw": 1, "total_krw": 2, "meta": {"usage": {"prompt_tokens": 74, "completion_tokens": 24, "total_tokens": 98}, "stage": "translate", "source": "llm"}, "ts": 1770951285}
-{"type": "cost", "krw": 1, "total_krw": 3, "meta": {"usage": {"prompt_tokens": 81, "completion_tokens": 29, "total_tokens": 110}, "stage": "translate", "source": "llm"}, "ts": 1770951287}

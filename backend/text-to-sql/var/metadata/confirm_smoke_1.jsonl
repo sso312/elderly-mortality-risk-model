@@ -1,1 +1,0 @@
-{"question": "Transfer counts by care unit", "sql": "SELECT * FROM ( SELECT CAREUNIT, COUNT(*) AS cnt FROM TRANSFERS WHERE CAREUNIT IS NOT NULL GROUP BY CAREUNIT ORDER BY cnt DESC ) WHERE ROWNUM <= 10", "meta": {"lang": "en", "complexity": "medium", "join_count": 0, "sql_score": 3, "source": "sql_examples.jsonl"}}

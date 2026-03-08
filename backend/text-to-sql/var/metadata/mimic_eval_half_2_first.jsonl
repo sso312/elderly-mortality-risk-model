@@ -1,1 +1,0 @@
-{"question": "Count transfers by event type", "sql": "SELECT EVENTTYPE, COUNT(*) AS cnt FROM TRANSFERS WHERE EVENTTYPE IS NOT NULL GROUP BY EVENTTYPE ORDER BY cnt DESC"}

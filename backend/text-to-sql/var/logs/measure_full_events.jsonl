@@ -1,5 +1,0 @@
-{"type": "cost", "krw": 4, "total_krw": 4, "meta": {"usage": {"prompt_tokens": 3339, "completion_tokens": 98, "total_tokens": 3437}, "stage": "plan", "source": "llm"}, "ts": 1770945640}
-{"type": "cost", "krw": 4, "total_krw": 8, "meta": {"usage": {"prompt_tokens": 3765, "completion_tokens": 56, "total_tokens": 3821}, "stage": "oneshot", "source": "llm"}, "ts": 1770945642}
-{"type": "cost", "krw": 4, "total_krw": 12, "meta": {"usage": {"prompt_tokens": 3340, "completion_tokens": 119, "total_tokens": 3459}, "stage": "plan", "source": "llm"}, "ts": 1770945645}
-{"type": "cost", "krw": 4, "total_krw": 16, "meta": {"usage": {"prompt_tokens": 3769, "completion_tokens": 61, "total_tokens": 3830}, "stage": "oneshot", "source": "llm"}, "ts": 1770945647}
-{"type": "cost", "krw": 4, "total_krw": 20, "meta": {"usage": {"prompt_tokens": 3390, "completion_tokens": 102, "total_tokens": 3492}, "stage": "plan", "source": "llm"}, "ts": 1770945650}
